@@ -2,7 +2,7 @@
 
 * Студент: [Андрей Кубышкин](https://up.htmlacademy.ru/htmlcss/31/user/1801333).
 * Наставник: [Vasilika Klimova](https://htmlacademy.ru/profile/id415397).
-* Исполнитель: [Андрей Кубышкин]
+* Исполнитель: [Андрей Кубышкин](https://up.htmlacademy.ru/htmlcss/31/user/1801333)
 ---
 
 
