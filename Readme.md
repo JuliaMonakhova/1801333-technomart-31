@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Андрей Кубышкин](https://up.htmlacademy.ru/htmlcss/31/user/1801333).
-* Наставник: [Vasilika Klimova](https://htmlacademy.ru/profile/id415397).
+* Наставник: [Julya Monakhova](https://htmlacademy.ru/profile/id415397).
 
 ---
 
