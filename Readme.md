@@ -1,8 +1,9 @@
 # Личный проект «Техномарт»
 
 * Студент: [Андрей Кубышкин](https://up.htmlacademy.ru/htmlcss/31/user/1801333).
-* Наставник: [Vasilika Klimova] (https://htmlacademy.ru/profile/id415397).
+* Наставник: [Vasilika Klimova](https://htmlacademy.ru/profile/id415397).
 ---
+
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
